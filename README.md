@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Creating a blog that is similiar to esquire.com for practice
 
-Things you may want to cover:
+#Need to have blogs categorized
 
-* Ruby version
+#Blog Posts need to have images for the cover
 
-* System dependencies
+#Blog Posts need to have comments for users to communicate
 
-* Configuration
+#Need to have some sort of sidebar for the entire website
 
-* Database creation
+#Need to have a cover image for the newest posts
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#more to come
