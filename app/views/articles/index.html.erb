@@ -1,9 +1,13 @@
-<h1>All Articles</h1>
+<div class="container page_wrapper">
 
-<ul id=articles>
-  <% @articles.each do |article| %>
-  <li><%= link_to article.title, article_path(article), class: "article_title" %></li></br>
-  <% end %>
-</ul>
+  <h1>All Articles</h1>
 
-<%= link_to "New Post", new_article_path %>
+  <ul id=articles>
+    <% @articles.each do |article| %>
+    <li><%= link_to article.title, article_path(article), class: "article_title" %></li></br>
+    <% end %>
+  </ul>
+
+  <%= link_to "New Post", new_article_path %>
+
+</div>
